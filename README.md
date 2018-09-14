@@ -1,7 +1,7 @@
 # UESTC-LessonIDdata
 lessondata.txt：All lessons' id on UESTC's eams.Search for lessons' id and use this with other select course scripts.
 
-（UESTC教务系统所有开设课程的id号（6位），查询课程并配合其它的选课脚本使用）
+（UESTC教务系统所有开设课程的id号（6位），查询课程并配合该项目的eams.py选课脚本或者其它的选课脚本使用）
 
 getlessons.py：The getlessons.py script can use to get all these IDdata,but you have to use your own account to login.
 
