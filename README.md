@@ -9,6 +9,6 @@ getlessons.py：The getlessons.py script can use to get all these IDdata,but you
 
 date:2018.9.8
 
-eams.py：Written by Cyrus（https://github.com/CyrusF/uestc-eams） ,added withdraw function
+eams.py：Written by Cyrus（https://github.com/CyrusF/uestc-eams ） ,added withdraw function
 
 （eams.py脚本原作者Cyrus。添加退课功能）
